@@ -59,6 +59,7 @@ created and exported)
   `src/BlogPost.js`
 - It should have a single `<div>` in its `render()` method
 - The `<div>` should have a `className="comment"` attribute
+
 - **Note:** The `BlogPost` component needs _minor_ alteration to properly pass
   the contents of its `commentsArray` to each of the `Comment` components that
   it is rendering
